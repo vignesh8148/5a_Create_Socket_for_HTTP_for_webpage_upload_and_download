@@ -76,6 +76,20 @@ print(response)
 
 client.close()
 ```
+INDEX.HTML:
+```
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <p>hello world</p>
+</body>
+</html>
+```
 ## OUTPUT
 <img width="1063" height="391" alt="{8B22C36B-6F74-4F74-A661-14C50FEF9E53}" src="https://github.com/user-attachments/assets/51f1421e-53a2-4bf8-ab67-154fb2e7011f" />
 
